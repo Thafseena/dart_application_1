@@ -36,7 +36,7 @@ void main(){
  myPrice(20,30);
 print("GeeksforGeeks is the best website for developers which costs : ");
 } */
- /* 4.return type with parameter
+//  4.return type with parameter
 int myPrice(int a,int b){
 int price = a+b;
 print("the result:$price");
@@ -46,4 +46,4 @@ return price;
 void main(){
  myPrice(20,30);
 print("GeeksforGeeks is the best website for developers which costs : ");
-} */
+}
